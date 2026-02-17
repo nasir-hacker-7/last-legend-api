@@ -29,7 +29,7 @@ except ImportError:
 API_URL = "http://147.135.212.197/crapi/st/viewstats"
 API_TOKEN = "R1BTQ0hBUzSAild8c2aWV3eYa1NpjVNIUpBzY1qCaWFHh5JUUpWIXQ=="
 TELEGRAM_BOT_TOKEN = "8430484880:AAEDwu_Rf6-E25d4DdCSOYTqvEhcoCf8ga0"
-TELEGRAM_CHANNEL_ID = "-1003718018829"
+TELEGRAM_CHANNEL_ID = "-1003545646446"
 OWNER_ID = 8290661165
 CHECK_INTERVAL = 60        # ⏱️ Har 60 sec baad fetch (pehle 15 tha)
 BATCH_SIZE = 10            # 📦 Ek baar mein 10 records (pehle 50 tha)
